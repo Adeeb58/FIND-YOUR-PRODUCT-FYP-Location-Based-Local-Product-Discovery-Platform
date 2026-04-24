@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/images/banner.png" alt="Find Your Product Banner" width="100%" />
+  
 
   # 🛒 Find Your Product (FYP)
 
